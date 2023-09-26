@@ -1,6 +1,6 @@
 # Urban Elegant  
 Under construction!  
-Tech: React,Redux; NextJs
+Tech: React,Redux; NextJs, MongoDB
 
 
 
