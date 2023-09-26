@@ -1,6 +1,6 @@
 # Urban Elegant  
 Under construction!  
-Tech: React,
+Tech: React,Redux
 
 
 
